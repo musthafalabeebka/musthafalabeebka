@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Musthafa Labeeb K A
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Musthafa%20Labeeb%20K%20A&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=App+Developer;iOS+%26+Flutter+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=App+Developer+%7C+iOS+Enthusiast;Flutter+%26+Swift+Developer;Mobile+Development+Expert;Always+Learning+New+Things+🚀" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=musthafalabeebka&label=Profile%20Views&color=2e9ef7&style=flat-square" alt="Profile views" />
