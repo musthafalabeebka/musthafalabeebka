@@ -110,7 +110,7 @@ me.sayHi()
 
 <div align="center">
   
-[![Resume](https://img.shields.io/badge/View_My_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/16j8Vfu3n62VVz8MaIfvsfRMw4tqukw2y/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View_My_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1eUNEPOs4OfbazErLAODM8ymAKHy2B_VS/view?usp=share_link)
 
 *Click above to view my detailed resume*
 
