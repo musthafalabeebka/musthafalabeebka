@@ -49,9 +49,8 @@ let me = Developer()
 me.sayHi()
 ```
 
-- 🌱 Currently mastering **Swift** and iOS development
+- 🌱 Currently learning **Swift** and iOS development
 - 💼 Open to collaborating on innovative mobile projects
-- 🎨 Passionate about creating seamless user experiences
 - 📧 Reach me at **musthafalabeebka@gmail.com**
 
 ---
@@ -109,12 +108,22 @@ me.sayHi()
 ## 📄 Resume
 
 <div align="center">
-  
-[![Resume](https://img.shields.io/badge/View_My_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1eUNEPOs4OfbazErLAODM8ymAKHy2B_VS/view?usp=share_link)
 
-*Click above to view my detailed resume*
+<a href="https://drive.google.com/file/d/1eUNEPOs4OfbazErLAODM8ymAKHy2B_VS/view?usp=share_link" target="_blank">
+  <img src="https://img.shields.io/badge/View_My_Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" 
+       style="background: url('https://i.imgur.com/OzaK3YF.gif') center/cover; border-radius: 8px; padding: 4px;" />
+</a>
+
+<a href="https://drive.google.com/uc?export=download&id=1eUNEPOs4OfbazErLAODM8ymAKHy2B_VS">
+  <img src="https://img.shields.io/badge/Download_Resume-000000?style=for-the-badge&logo=google-drive&logoColor=white" 
+       style="background: url('https://i.imgur.com/OzaK3YF.gif') center/cover; border-radius: 8px; padding: 4px;" />
+</a>
+
+<br><br>
+*Click above to view or download my detailed resume*
 
 </div>
+
 
 ---
 
